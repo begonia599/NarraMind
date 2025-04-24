@@ -1,4 +1,3 @@
-<!-- 项目标识 -->
 <div align="center">
   <img src="https://placehold.co/400x150?text=NarraMind" alt="NarraMind Logo" width="400"/>
   
